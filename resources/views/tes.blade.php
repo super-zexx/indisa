@@ -32,13 +32,13 @@
                 </div>
             </div>
         </div>
-        
+
 
         <!-- Price and Features -->
         <div class="bg-white rounded-lg shadow-lg p-6 mb-6">
             <div class="flex justify-between items-center mb-4">
                 <div>
-                    <span class="text-3xl font-bold text-gray-900">Rp 899.000</span>
+                    <span class="text-3xl font-bold text-gray-900">Rp 8939.000</span>
                     <span class="ml-2 line-through text-gray-500">Rp 1.199.000</span>
                 </div>
                 <span class="bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded">25% OFF</span>
